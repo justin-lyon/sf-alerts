@@ -19,3 +19,7 @@ sf project deploy start \
 echo "...Assigning Permission Set LWCDemoApp, ConsoleNav, & AlertsManager"
 sf org assign permset \
   --name AlertAdmin
+
+echo "...Importing data/Account-Contact-Alert-AccountAlert-plan.json"
+sf data import tree \
+  --plan data/Account-Contact-Alert-AccountAlert-plan.json
