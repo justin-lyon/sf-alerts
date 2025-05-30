@@ -1,0 +1,30 @@
+[
+    {
+        "sobject": "Account",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "Accounts.json"
+        ]
+    },
+    {
+        "sobject": "Alert__c",
+        "files": [
+            "Alert__c.json"
+        ]
+    },
+    {
+        "sobject": "Contact",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": [
+            "Contacts.json"
+        ]
+    },
+    {
+        "sobject": "AccountAlert__c",
+        "files": [
+            "AccountAlert__c.json"
+        ]
+    }
+]

@@ -1,0 +1,76 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "AccountAlert__c",
+                "referenceId": "AccountAlert__cRef1"
+            },
+            "Account__c": "@AccountRef1",
+            "Alert__c": "@Alert__cRef4",
+            "IsActive__c": true
+        },
+        {
+            "attributes": {
+                "type": "AccountAlert__c",
+                "referenceId": "AccountAlert__cRef2"
+            },
+            "Account__c": "@AccountRef1",
+            "Alert__c": "@Alert__cRef4",
+            "IsActive__c": true
+        },
+        {
+            "attributes": {
+                "type": "AccountAlert__c",
+                "referenceId": "AccountAlert__cRef3"
+            },
+            "Account__c": "@AccountRef2",
+            "Alert__c": "@Alert__cRef4",
+            "IsActive__c": true
+        },
+        {
+            "attributes": {
+                "type": "AccountAlert__c",
+                "referenceId": "AccountAlert__cRef4"
+            },
+            "Account__c": "@AccountRef3",
+            "Alert__c": "@Alert__cRef5",
+            "IsActive__c": true
+        },
+        {
+            "attributes": {
+                "type": "AccountAlert__c",
+                "referenceId": "AccountAlert__cRef5"
+            },
+            "Account__c": "@AccountRef3",
+            "Alert__c": "@Alert__cRef5",
+            "IsActive__c": true
+        },
+        {
+            "attributes": {
+                "type": "AccountAlert__c",
+                "referenceId": "AccountAlert__cRef6"
+            },
+            "Account__c": "@AccountRef4",
+            "Alert__c": "@Alert__cRef5",
+            "IsActive__c": true
+        },
+        {
+            "attributes": {
+                "type": "AccountAlert__c",
+                "referenceId": "AccountAlert__cRef7"
+            },
+            "Account__c": "@AccountRef5",
+            "Alert__c": "@Alert__cRef6",
+            "IsActive__c": true
+        },
+        {
+            "attributes": {
+                "type": "AccountAlert__c",
+                "referenceId": "AccountAlert__cRef8"
+            },
+            "Account__c": "@AccountRef6",
+            "Alert__c": "@Alert__cRef6",
+            "IsActive__c": true
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+  "orgName": "justin company",
+  "edition": "Developer",
+  "features": [],
+  "settings": {
+    "userManagementSettings": {
+        "enableNewProfileUI": true,
+        "permsetsInFieldCreation": true
+    }
+}
+}

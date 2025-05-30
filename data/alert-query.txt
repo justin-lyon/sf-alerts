@@ -1,0 +1,5 @@
+SELECT Id, Name, Message__c, IsActive__c, ExpirationDate__c, (
+  SELECT Id, Account__c, Alert__c, IsActive__c, ExpirationDate__c
+  FROM AccountAlerts__r
+)
+FROM Alert__c

@@ -1,0 +1,58 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Alert__c",
+                "referenceId": "Alert__cRef1"
+            },
+            "Name": "Hey be careful now",
+            "Message__c": "There's a bear!",
+            "IsActive__c": true
+        },
+        {
+            "attributes": {
+                "type": "Alert__c",
+                "referenceId": "Alert__cRef2"
+            },
+            "Name": "Did you know?",
+            "Message__c": "Drink more Ovaltine.",
+            "IsActive__c": true
+        },
+        {
+            "attributes": {
+                "type": "Alert__c",
+                "referenceId": "Alert__cRef3"
+            },
+            "Name": "Ahhhhhhh! Stop!",
+            "Message__c": "Big Problem. Pay Attention!",
+            "IsActive__c": true
+        },
+        {
+            "attributes": {
+                "type": "Alert__c",
+                "referenceId": "Alert__cRef4"
+            },
+            "Name": "Alternate Account Name",
+            "Message__c": "This Account is known by an alternate name.",
+            "IsActive__c": true
+        },
+        {
+            "attributes": {
+                "type": "Alert__c",
+                "referenceId": "Alert__cRef5"
+            },
+            "Name": "Missing MSA",
+            "Message__c": "Please update your MSA.",
+            "IsActive__c": true
+        },
+        {
+            "attributes": {
+                "type": "Alert__c",
+                "referenceId": "Alert__cRef6"
+            },
+            "Name": "Fraud",
+            "Message__c": "Impersonation Attempt",
+            "IsActive__c": true
+        }
+    ]
+}
