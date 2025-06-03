@@ -6,7 +6,7 @@
                 "referenceId": "AccountAlert__cRef1"
             },
             "Account__c": "@AccountRef1",
-            "Alert__c": "@Alert__cRef4",
+            "Alert__c": "@Alert__cRef1",
             "IsActive__c": true
         },
         {
@@ -15,7 +15,7 @@
                 "referenceId": "AccountAlert__cRef2"
             },
             "Account__c": "@AccountRef1",
-            "Alert__c": "@Alert__cRef4",
+            "Alert__c": "@Alert__cRef2",
             "IsActive__c": true
         },
         {
@@ -24,7 +24,7 @@
                 "referenceId": "AccountAlert__cRef3"
             },
             "Account__c": "@AccountRef2",
-            "Alert__c": "@Alert__cRef4",
+            "Alert__c": "@Alert__cRef3",
             "IsActive__c": true
         },
         {
@@ -32,8 +32,8 @@
                 "type": "AccountAlert__c",
                 "referenceId": "AccountAlert__cRef4"
             },
-            "Account__c": "@AccountRef3",
-            "Alert__c": "@Alert__cRef5",
+            "Account__c": "@AccountRef2",
+            "Alert__c": "@Alert__cRef4",
             "IsActive__c": true
         },
         {
